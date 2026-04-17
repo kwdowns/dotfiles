@@ -1,0 +1,7 @@
+*
+!.config
+!.config/nvim
+!.config/nvim/**
+!.zshrc
+!.p10k.zsh
+!.gitignore
